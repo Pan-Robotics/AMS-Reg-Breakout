@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, CADJ1",1206,2,10uF,
+C2,1206,1,22uF,
+D1,0805,1,Red,
+F1,1206,1,1.25A,
+"H1, H2, H3, H4",MountingHole_3.2mm_M3_DIN965_Pad,4,MountingHole,
+J1,PinHeader_1x02_P2.54mm_Vertical,1,Input,
+J2,PinHeader_1x02_P2.54mm_Vertical,1,Output,
+RV1,Potentiometer_Bourns_TC33X_Vertical,1,500R,
+U1,SOT-223-3_TabPin2,1,AMS1117,
